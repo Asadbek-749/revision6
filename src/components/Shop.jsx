@@ -4,7 +4,7 @@ const products = [
   {
     id: 1,
     name: "Cooper Dining Table",
-    img: "src/assets/images/img/shop1.png",
+    img: ".src/assets/images/img/shop1.png",
     rentPrice: 15,
     buyOldPrice: 359,
     buyNewPrice: 314,
@@ -12,7 +12,7 @@ const products = [
   {
     id: 2,
     name: "Croft Media Console",
-    img: "src/assets/images/img/shop2.png",
+    img: ".src/assets/images/img/shop2.png",
     rentPrice: 35,
     buyOldPrice: 839,
     buyNewPrice: 739,
@@ -20,7 +20,7 @@ const products = [
   {
     id: 3,
     name: "Essex Dining Chair",
-    img: "src/assets/images/img/shop3.png",
+    img: ".src/assets/images/img/shop3.png",
     rentPrice: 18,
     buyOldPrice: 429,
     buyNewPrice: 379,
@@ -28,7 +28,7 @@ const products = [
   {
     id: 4,
     name: "Ludlow Sofa",
-    img: "src/assets/images/img/shop4.png",
+    img: ".src/assets/images/img/shop4.png",
     rentPrice: 52,
     buyOldPrice: 1249,
     buyNewPrice: 1099,
