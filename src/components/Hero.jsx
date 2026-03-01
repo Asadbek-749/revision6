@@ -24,7 +24,7 @@ const Hero = () => {
           </div>
           <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
             <img
-              src="src/assets/images/img/img5.png"
+              src="./src/assets/images/img/img5.png"
               alt="mockup"
             />
           </div>

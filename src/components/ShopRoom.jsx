@@ -4,9 +4,7 @@ const ShopRoom = () => {
   return (
     <div className="bg-[#FBF8F5]">
       <div className="container mx-auto Pt-10 flex flex-col gap-10 pb-20 ">
-        <h2 className="text-center font-roboto text-[28px] md:text-[36px] lg:text-[48px] leading-[120%] font-normal text-black transition-all duration-300 ">
-          Shop by Room
-        </h2>
+        ./
 
         <div className="flex items-center gap-10 mx-auto">
           {/* Card 1  */}
@@ -14,7 +12,7 @@ const ShopRoom = () => {
             <a href="#" className="w-full block overflow-hidden">
               <img
                 className="w-full h-[200px] object-cover"
-                src="src/assets/images/img/room1.png"
+                src="./src/assets/images/img/room1.png"
                 alt="Living Room"
               />
             </a>
@@ -31,7 +29,7 @@ const ShopRoom = () => {
             <a href="#" className="w-full block overflow-hidden">
               <img
                 className="w-full h-[200px] object-cover"
-                src="src/assets/images/img/room2.png"
+                src="./src/assets/images/img/room2.png"
                 alt="Living Room"
               />
             </a>
@@ -48,7 +46,7 @@ const ShopRoom = () => {
             <a href="#" className="w-full block overflow-hidden">
               <img
                 className="w-full h-[200px] object-cover"
-                src="src/assets/images/img/room3.png"
+                src="./src/assets/images/img/room3.png"
                 alt="Living Room"
               />
             </a>
@@ -65,7 +63,7 @@ const ShopRoom = () => {
             <a href="#" className="w-full block overflow-hidden">
               <img
                 className="w-full h-[200px] object-cover"
-                src="src/assets/images/img/room1.png"
+                src="./src/assets/images/img/room1.png"
                 alt="Living Room"
               />
             </a>

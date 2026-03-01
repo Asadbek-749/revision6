@@ -32,7 +32,7 @@ const Header = () => {
         </ul>
 
         <div>
-          <img src="src/assets/images/svg/logo.svg" alt="Sayt Logo" />
+          <img src="./src/assets/images/svg/logo.svg" alt="Sayt Logo" />
         </div>
 
         <ul className="flex gap-[36px]">
@@ -63,7 +63,7 @@ const Header = () => {
           <li>
             <img
               className="cursor-pointer"
-              src="src/assets/images/svg/sell-icon.svg"
+              src="./src/assets/images/svg/sell-icon.svg"
               alt=""
             />
           </li>

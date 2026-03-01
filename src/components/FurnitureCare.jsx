@@ -6,7 +6,7 @@ const care = [
     title: "Enjoy a fully furnished space in less than week",
     disc: "Feather furniture is available to be delivered and assembled in New York City, Los Angeles and San Francisco.",
     link: "Explore Furniture",
-    img: "src/assets/images/img/img5.png",
+    img: "./src/assets/images/img/img5.png",
     status: "left",
   },
 
@@ -15,7 +15,7 @@ const care = [
     title: "Garage Sale - 40% & Up",
     disc: "Our Garage Sale is open! Savings start at 40% on favorite retired pieces. Find dressers, sofas, decor, and more to make the year one to remember.",
     link: "Shop Now",
-    img: "src/assets/images/img/img4.png",
+    img: "./src/assets/images/img/img4.png",
     status: "right",
   },
 
@@ -24,7 +24,7 @@ const care = [
     title: "Furniture for business, made simple.",
     disc: "Say goodbye to cost, complexity, and commitment of furniture. Feather makes it easy with affordable rental plans, white glove delivery and best-in-class account service.",
     link: "Visit Feather For Business",
-    img: "src/assets/images/img/img3.png",
+    img: "./src/assets/images/img/img3.png",
     status: "left",
   },
 
@@ -33,7 +33,7 @@ const care = [
     title: "Never assemble furniture again.",
     disc: "We move a lot. There are countless floor plans and roommates (oh, and your evolving tastes) between here and there. With Feather, furnish your space without breaking a sweat or reaching for a screwdriver.",
     link: "How Feather Works",
-    img: "src/assets/images/img/img2.png",
+    img: "./src/assets/images/img/img2.png",
     status: "right",
   },
 ];
